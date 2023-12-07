@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">comp304_group4_lab6</string>
+
+    <string name="P1">Artificial Intelligence</string>
+    <string name="P2">Software Engineering Technician</string>
+    <string name="P3">Software Engineering Technology</string>
+    <string name="P4">Health Informatics Technology</string>
+
+    <string name="P1C1">Deep Learning</string>
+    <string name="P1C2">Cloud Machine Learning</string>
+    <string name="P1C3">Natural Language Processing and Recommender Systems</string>
+
+    <string name="P2C1">Programming 3</string>
+    <string name="P2C2">Software Testing and Quality Assurance</string>
+    <string name="P2C3">Developing UI for Software Devices</string>
+
+    <string name="P3C1">Networking for Software Developers</string>
+    <string name="P3C2">IT Project Management</string>
+    <string name="P3C3">Emerging Technologies</string>
+
+    <string name="P4C1">Data Structures and Algorithms</string>
+    <string name="P4C2">Business and Entrepreneurship for Software Engineering Technology</string>
+    <string name="P4C3">Software Development Project 2</string>
+
+    <string name="P1C1D">This course builds on the artificial neural networks course. Students will be introduced to deep neural networks. Coursework will emphasize convolutional neural networks (CNNs), Sequence Modeling with Recurrent and Recursive Nets, Variational Autoencoders, Deep Generative Models, Representation Learning and Knowledge Transfer, Attention mechanisms and Transformers. Self-supervised learning will also be explored. Students will gain hands-on experience by using Keras and TensorFlow for building and applying deep learning models to image recognition, speech recognition, language translation, and other problems, using real-world datasets.</string>
+    <string name="P1C2D">In this course, students will be introduced to Cloud AI frameworks. Coursework will emphasize machine learning on AWS, Azure, and Google cloud. Students will gain hands-on experience by building and deploying ML applications using cloud tools and frameworks. Automated machine learning will be also explored.</string>
+    <string name="P1C3D">The first part of this course focuses on natural language procession concepts and techniques. Topics include sentiment analysis, summarization, dialogue state tracking, etc. Students will apply these concepts to build a conversational interface (chat bot).The second part of the course introduces recommender systems for predicting user preferences. Topics include the most fundamental techniques used in recommender systems, such as association rules and collaborative filtering. More advanced techniques will be also explained.</string>
+
+    <string name="P2C1D">The goal of this course is to enable students, already proficient in OOP, to build robust and more complex, data-driven desktop applications using the .NET technologies. Coursework emphasizes advanced topics, such as generics, extension methods, linear data structures, delegates, asynchronous programming, parallel programming, advanced GUI, Entity Framework core, ML.NET framework, etc. The language of instruction is C#.</string>
+    <string name="P2C2D">This course explores the goals of quality assurance and quality control activities performed during the life cycle of a software product. It focuses on integrating test processes with agile software development methodologies. Practical exercises give experience of design, specification, execution of tests plus test automation using tools through a mixture of instructor-directed exercises and student research leading to knowledge sharing.</string>
+    <string name="P2C3D">This course will cover developing and testing software systems that interface with various smart devices.  Students will gain hands-on experience by applying machine learning algorithms to automate various tasks as well as develop and deploy various conversational user interfaces. Areas of application include IoT devices, wearables, and autonomous cars.</string>
+
+    <string name="P3C1D">Learners in this course will gain hands-on experience by applying knowledge of network protocols and components to the development and maintenance of software applications. Coursework emphasizes network stacks, socket-based network applications, software-defined networks, and developing client applications that interface with various intelligent devices.</string>
+    <string name="P3C2D">Students are taught the concepts and basic functions of Project Management, and the integration of these concepts and functions into a coherent project management system. Also, role of the project manager and the project management team in implementing and controlling projects. Further, the Project Management Body of Knowledge PMBOK® as defined by the Project Management Institute PMI and its application to Project Management.</string>
+    <string name="P3C3D">This course will examine various emerging app development technologies in the rapidly changing world of software. Students will gain hands-on experience by using emerging web development technologies and investigating other emerging trends in software development. Coursework in COMP308 emphasizes emerging patterns and frameworks for full-stack development, emerging architectural styles for APIs, and advancements in artificial intelligence.</string>
+
+    <string name="P4C1D">Building on fundamentals of Object-Oriented programming, this course exposes the students to algorithms and data structures. Students will analyze, evaluate and apply appropriate data structures algorithms for the implementation of a software system. Coursework emphasizes the classical data structures, basic algorithm design, common operations on data structures, and the use of mathematical techniques to analyze the efficiency of the various algorithms. The languages of instruction are Java and Python (optional).</string>
+    <string name="P4C2D">Software Engineering Technology not only has unlimited potential for transforming the way organizations operate and their decision-making capabilities but, in addition, it provides opportunities for innovation and entrepreneurship. In the latter sense, new ideas are conceived, developed and deployed for the advancement of society. This scenario plays out in so many examples that we see around us. Therefore, the main motivation behind the development of this course is to challenge our software engineering students to increase their knowledge of business processes and to have an entrepreneurial and innovative mindset that can lead to the development of new software products and/or the enhancement of existing ones. The coursework covers business organizational models, processes, ethics, privacy and confidentiality, as well as product development and Entrepreneurship. The topics for the Business component will include organizational structures for large, medium and small businesses with an overview of essential business processes related to manufacturing, retailing, and service industries. Topics for the Product Development and Entrepreneurship component will include software entrepreneurial process, principles of software business ownership, identifying software market opportunity, entrepreneurial software marketing, software business communication and negotiation techniques, feasibility analysis, entrepreneurial financing, legal structures and issues, software business plan development, risk management. The course will promote collaborative teamwork.</string>
+    <string name="P4C3D">This is a capstone course for Software Engineering Technology, Health Informatics Technology, Artificial Intelligence, Game - Programming programs and builds upon COMP231 Software Development Project 1. The students are required to work in teams to design and implement a complete application or game for a small company. The project must make use of enterprise tools to build enterprise-level data integration. The project must involve teamwork, oral and written communication skills, problem solving, documentation, and research skills. Teams are allowed to select projects that fit with their specialization. Interactive Gaming students will develop a game, and Health Informatics students will select a project that focuses on health care information systems. Students are encouraged to create their teams in the previous semester.</string>
+
+
+</resources>
